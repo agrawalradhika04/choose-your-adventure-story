@@ -1,8 +1,3 @@
-//
-//Radhika Agrawal
-//CS110 - HW4 titled Choose your Own Adventure
-//
-
 #include <iostream>
 
 using namespace std;
