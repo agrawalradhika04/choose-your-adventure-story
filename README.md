@@ -1,2 +1,2 @@
 # choose-your-adventure-story
-This interactive C++ program simulates a “Choose Your Own Adventure” story titled Crossing Oceans: International Student in the States. 
+This interactive C++ program simulates a “Choose Your Own Adventure” story titled Crossing Oceans: International Student in the States. The user plays as a student arriving in the U.S. from their home country and navigates a series of decisions—from choosing between a taxi or the subway to handling new situations on campus. Each decision leads to one of eight unique story endings. The program uses user input, conditional logic, and branching paths to create an engaging, personalized experience.
